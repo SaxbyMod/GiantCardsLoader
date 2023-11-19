@@ -1,0 +1,15 @@
+C:\Users\Thinc\Source\Repos\MEGALADONGIANTCARD\bin\Release\netstandard2.0\BossCardsLoader.deps.json
+C:\Users\Thinc\Source\Repos\MEGALADONGIANTCARD\bin\Release\netstandard2.0\BossCardsLoader.dll
+C:\Users\Thinc\Source\Repos\MEGALADONGIANTCARD\bin\Release\netstandard2.0\BossCardsLoader.pdb
+C:\Users\Thinc\Source\Repos\MEGALADONGIANTCARD\bin\Release\netstandard2.0\GiantCardManager.dll
+C:\Users\Thinc\Source\Repos\MEGALADONGIANTCARD\bin\Release\netstandard2.0\InscryptionAPI.dll
+C:\Users\Thinc\Source\Repos\MEGALADONGIANTCARD\bin\Release\netstandard2.0\InscryptionCommunityPatch.dll
+C:\Users\Thinc\Source\Repos\MEGALADONGIANTCARD\obj\Release\netstandard2.0\MEGALADON.csproj.AssemblyReference.cache
+C:\Users\Thinc\Source\Repos\MEGALADONGIANTCARD\obj\Release\netstandard2.0\PluginInfo.cs
+C:\Users\Thinc\Source\Repos\MEGALADONGIANTCARD\obj\Release\netstandard2.0\MEGALADON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thinc\Source\Repos\MEGALADONGIANTCARD\obj\Release\netstandard2.0\MEGALADON.AssemblyInfoInputs.cache
+C:\Users\Thinc\Source\Repos\MEGALADONGIANTCARD\obj\Release\netstandard2.0\MEGALADON.AssemblyInfo.cs
+C:\Users\Thinc\Source\Repos\MEGALADONGIANTCARD\obj\Release\netstandard2.0\MEGALADON.csproj.CoreCompileInputs.cache
+C:\Users\Thinc\Source\Repos\MEGALADONGIANTCARD\obj\Release\netstandard2.0\MEGALADON.csproj.CopyComplete
+C:\Users\Thinc\Source\Repos\MEGALADONGIANTCARD\obj\Release\netstandard2.0\BossCardsLoader.dll
+C:\Users\Thinc\Source\Repos\MEGALADONGIANTCARD\obj\Release\netstandard2.0\BossCardsLoader.pdb
