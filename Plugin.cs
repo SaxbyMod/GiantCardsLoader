@@ -26,11 +26,12 @@ namespace ExampleMod
         // This is where you would run all of your other methods.
         private void Awake()
         {
-            AddTest();
+            AddMEGALADON();
+            AddSUM();
             // Apply our harmony patches.
             harmony.PatchAll(typeof(Plugin));
             int i = 0;
-            static void AddTest()
+            static void AddMEGALADON()
             {
                 CardInfo Megaladon = CardManager.New(
 
@@ -59,6 +60,36 @@ namespace ExampleMod
 
                 Megaladon.animatedPortrait = GiantCardManager.Plugin.CreateGiantCard(TextureHelper.GetImageAsTexture("MEGALADON.png"));
 
+            }
+            i++;
+            static void AddSUM()
+            {
+                CardInfo SUM = CardManager.New(
+
+                    // Card ID Prefix
+                    modPrefix: "BossCardsLoader",
+
+                    // Card internal name.
+                    "!GIANTCARD_SUM",
+                    // Card display name.
+                    "SUM",
+                    // Attack.
+                    1,
+                    // Health.
+                    200,
+                    // Descryption.
+                    description: "Megaladon Bites Hard especially on Squirrels"
+            )
+                .SetCost(0, 0, 0, null)
+                .AddAbilities(Ability.AllStrike, Ability.SquirrelOrbit, Ability.RandomAbility, Ability.Reach)
+                .AddTraits(Trait.Giant)
+                .AddSpecialAbilities(SpecialTriggeredAbility.GiantCard)
+                .AddAppearances(CardAppearanceBehaviour.Appearance.GiantAnimatedPortrait)
+                ;
+                CardManager.Add("BossCardsLoader", SUM);
+
+
+                SUM.animatedPortrait = GiantCardManager.Plugin.CreateGiantCard(TextureHelper.GetImageAsTexture("SUM.png"));
             }
             i++;
             Logger.LogInfo($"Loaded {i} Boss Cards!");

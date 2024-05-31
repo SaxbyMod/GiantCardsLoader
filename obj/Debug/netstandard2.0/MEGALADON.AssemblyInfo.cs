@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("An boss card loader mod for json mods to utilize as a base Ig?")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5522e073291df4b7392354b63aa16d9c8c5abc96")]
 [assembly: System.Reflection.AssemblyProductAttribute("BossCardsLoader")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BossCardsLoader")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

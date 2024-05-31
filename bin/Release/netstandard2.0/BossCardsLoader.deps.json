@@ -17,8 +17,8 @@
           "NETStandard.Library": "2.0.3",
           "UnityEngine.Modules": "2019.4.24",
           "GiantCardManager": "1.0.0.0",
-          "InscryptionAPI": "2.18.4.0",
-          "InscryptionCommunityPatch": "2.11.0.0"
+          "InscryptionAPI": "2.19.4.0",
+          "InscryptionCommunityPatch": "2.19.0.0"
         },
         "runtime": {
           "BossCardsLoader.dll": {}
@@ -434,19 +434,19 @@
           }
         }
       },
-      "InscryptionAPI/2.18.4.0": {
+      "InscryptionAPI/2.19.4.0": {
         "runtime": {
           "InscryptionAPI.dll": {
-            "assemblyVersion": "2.18.4.0",
-            "fileVersion": "2.18.4.0"
+            "assemblyVersion": "2.19.4.0",
+            "fileVersion": "2.19.4.0"
           }
         }
       },
-      "InscryptionCommunityPatch/2.11.0.0": {
+      "InscryptionCommunityPatch/2.19.0.0": {
         "runtime": {
           "InscryptionCommunityPatch.dll": {
-            "assemblyVersion": "2.11.0.0",
-            "fileVersion": "2.11.0.0"
+            "assemblyVersion": "2.19.0.0",
+            "fileVersion": "2.19.0.0"
           }
         }
       }
@@ -750,12 +750,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "InscryptionAPI/2.18.4.0": {
+    "InscryptionAPI/2.19.4.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""
     },
-    "InscryptionCommunityPatch/2.11.0.0": {
+    "InscryptionCommunityPatch/2.19.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

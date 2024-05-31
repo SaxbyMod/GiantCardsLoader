@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o/ykSvY3/NFsSWwD13AnT+AiIxFZkPk+v9v4AsBQBrzwxfzJQAjaE2G1ugVOZtpY0EqrHV3X3dZ4fqyFzT2qZw==",
+  "dgSpecHash": "IqJPGkVrR8uCuLGXi7Zih0EMM/uWxh2VpcVVk9G/HLDNyWa2BWRdgvmdaB5uHhM8G2GXTSl9mYPEBbQJTjMVGw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Thinc\\Source\\Repos\\MEGALADONGIANTCARD\\MEGALADON.csproj",
+  "projectFilePath": "C:\\Users\\Thinc\\source\\repos\\GiantCardsLoader\\MEGALADON.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Thinc\\.nuget\\packages\\bepinex-monomod_loader_inscryption\\1.0.0\\bepinex-monomod_loader_inscryption.1.0.0.nupkg.sha512",
     "C:\\Users\\Thinc\\.nuget\\packages\\bepinex.analyzers\\1.0.8\\bepinex.analyzers.1.0.8.nupkg.sha512",
